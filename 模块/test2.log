@@ -1,0 +1,13 @@
+2017-08-29 16:15:52,367 WARNING Logging.py[line:39] 3152 warn message
+2017-08-29 16:15:52,367 ERROR Logging.py[line:40] 3152 error message
+2017-08-29 16:15:52,367 CRITICAL Logging.py[line:41] 3152 critical message
+2017-08-29 16:26:00,839 DEBUG Logging.py[line:37] 3210 debug message
+2017-08-29 16:26:00,839 INFO Logging.py[line:38] 3210 info message
+2017-08-29 16:26:00,839 WARNING Logging.py[line:39] 3210 warn message
+2017-08-29 16:26:00,839 ERROR Logging.py[line:40] 3210 error message
+2017-08-29 16:26:00,839 CRITICAL Logging.py[line:41] 3210 critical message
+2017-08-29 16:26:51,817 DEBUG Logging.py[line:37] 3216 debug message
+2017-08-29 16:26:51,818 INFO Logging.py[line:38] 3216 info message
+2017-08-29 16:26:51,818 WARNING Logging.py[line:39] 3216 warn message
+2017-08-29 16:26:51,818 ERROR Logging.py[line:40] 3216 error message
+2017-08-29 16:26:51,818 CRITICAL Logging.py[line:41] 3216 critical message

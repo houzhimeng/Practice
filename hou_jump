@@ -1,0 +1,2 @@
+
+Conn_Params = "mysql+pymysql://root:123..com@192.168.1.123"

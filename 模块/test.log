@@ -1,0 +1,5 @@
+Tue 29 Aug 2017 14:54:39 DEBUG Logging.py[line:11] 2448 debug message
+Tue 29 Aug 2017 14:54:39 INFO Logging.py[line:12] 2448 info message
+Tue 29 Aug 2017 14:54:39 WARNING Logging.py[line:13] 2448 warn message
+Tue 29 Aug 2017 14:54:39 ERROR Logging.py[line:14] 2448 error message
+Tue 29 Aug 2017 14:54:39 CRITICAL Logging.py[line:15] 2448 critical message
